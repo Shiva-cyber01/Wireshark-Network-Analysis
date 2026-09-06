@@ -74,16 +74,15 @@ The `.pcap` sample files analyzed in this repository were gathered from open-sou
 
 * [Wireshark Official Sample Captures](https://www.google.com/search?q=https://wiki.wireshark.org/SampleCaptures)
 * [Malware-Traffic-Analysis.net](https://www.google.com/search?q=https://www.malware-traffic-analysis.net/)
-* Custom lab environments (TryHackMe / Hack The Box)
 
 ---
 
 ## 💼 Let's Connect!
 
-I am actively seeking opportunities in **Cybersecurity, SOC Analysis, and Network Security Engineering**.
+I am actively seeking opportunities in **Cybersecurity, SOC Analysis, and  Junior Pentester **.
 
 * **LinkedIn:** [linkedin.com/in/your-profile](https://www.google.com/search?q=https://www.linkedin.com/in/shivsagar1
-* **Email:** `your.email@example.com`
+* **Email:** `shivsagarverma1@gmail.com`
 
 ```
 
