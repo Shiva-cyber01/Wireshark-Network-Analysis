@@ -81,9 +81,9 @@ The `.pcap` sample files analyzed in this repository were gathered from open-sou
 
 I am actively seeking opportunities in **Cybersecurity, SOC Analysis, and  Junior Pentester **.
 
-* **LinkedIn:** [linkedin.com/in/shivsagar1](https://www.google.com/search?q=https://www.linkedin.com/in/shivsagar1
+* **LinkedIn:** [linkedin.com/in/shivsagar1](https://www.linkedin.com/in/shivsagar1
 * **Email:** [shivsagarverma1@gmail.com](mailto:shivsagarverma1@gmail.com)
 
 ```
-
+[linkedin.com/in/shivsagar1](https://www.google.com/search?q=https://www.linkedin.com/in/shivsagar1
 ```
