@@ -1,5 +1,4 @@
 # Wireshark-Network-Analysis
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/60bab8a2-0621-4870-80ca-62656bae4bd3" />
 
 # 🦈 Wireshark Packet Analysis & Network Diagnostics Labs
 
@@ -46,7 +45,8 @@ Findings: Successfully reconstructed the TCP stream to isolate a cleartext HTTP 
 
 🔗 View Full Lab Documentation & Screenshots
 
-![Wireshark Network Analysis](https://raw.githubusercontent.com/Shiva-cyber01/Demo_file/5ae0a862a791c5ebea9ca08bad8e6163d2b3b7bf/Screenshot%202026-09-06%20102221.png?token=B3WFHSEWBYOGRQRKL6I4ON3KTUZVK)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d02ba30d-1f41-44a3-b12a-af575fa2dc58" />
+
 # 🔹 Lab 02: DNS Query Inspection & Anomaly Detection
 Objective: Inspect DNS traffic flows to map query-response patterns and identify abnormal domain requests.
 
