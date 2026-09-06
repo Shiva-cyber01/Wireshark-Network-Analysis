@@ -52,7 +52,8 @@ Welcome to my Wireshark hands-on lab repository! This project serves as a practi
 * **Objective:** Inspect DNS traffic flows to map query-response patterns and identify abnormal domain requests.
 * **Key Filters Used:** `dns.flags.response == 0`, `dns.qry.name`
 * **Findings:** Identified standard recursive DNS resolution processes, mapped requested A/AAAA records, and highlighted high-frequency lookups indicative of network scanning.
-* **🔗 [View Full Lab Documentation & Screenshots**](https://www.google.com/search?q=./PCAP-Labs/Lab-02-DNS-Traffic-Inspection/)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93199a22-ce4d-4c67-91fc-265e397b47dd" />
 
 ---
 
