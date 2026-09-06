@@ -72,8 +72,8 @@ Welcome to my Wireshark hands-on lab repository! This project serves as a practi
 * **Objective:** Analyze capture traffic to identify automated port scanning activity and malicious host discovery.
 * **Key Filters Used:** `tcp.flags.syn == 1 and tcp.flags.ack == 0`, `ip.src == [Target_IP]`
 * **Findings:** Identified a host executing a rapid TCP SYN scan across multiple destination ports within a short time window, mapping active services on the target subnet.
-* **🔗 [View Full Lab Documentation & Screenshots](./PCAP-Labs/Lab-04-Port-Scan-Detection/)**
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6cf90655-f8a2-4359-b0f4-345030a4397f" />
 
 
 ## 🌐 Sample PCAP Data Sources
