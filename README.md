@@ -82,7 +82,7 @@ The `.pcap` sample files analyzed in this repository were gathered from open-sou
 
 I am actively seeking opportunities in **Cybersecurity, SOC Analysis, and Network Security Engineering**.
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://www.google.com/search?q=https://www.linkedin.com/in/your-profile)
+* **LinkedIn:** [linkedin.com/in/your-profile](https://www.google.com/search?q=https://www.linkedin.com/in/shivsagar1
 * **Email:** `your.email@example.com`
 
 ```
