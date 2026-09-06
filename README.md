@@ -34,9 +34,9 @@ Welcome to my Wireshark hands-on lab repository! This project serves as a practi
 │       └── screenshots/
 └── README.md                       # Main Repository Overview
 
-#🧪 Featured Lab Write-Ups
+🧪 Featured Lab Write-Ups
 
-# 🔹 Lab 01: HTTP & Cleartext Credential Analysis
+ 🔹 Lab 01: HTTP & Cleartext Credential Analysis
 Objective: Analyze an unencrypted HTTP session to trace user activity and reconstruct plain-text transmissions.
 
 Key Filters Used: http.request.method == "POST", tcp.port == 80
@@ -45,8 +45,7 @@ Findings: Successfully reconstructed the TCP stream to isolate a cleartext HTTP 
 
 🔗 View Full Lab Documentation & Screenshots
 
-![ My Screenshot]_(https://github.com/Shiva-cyber01/Wireshark-Network-Analysis/blob/main/Screenshot%202026-09-06%20102221.png?raw=true)
-
+![My Scrinsort](https://github.com/Shiva-cyber01/Wireshark-Network-Analysis/blob/main/Screenshot%202026-09-06%20102221.png?raw=true)
 
 # 🔹 Lab 02: DNS Query Inspection & Anomaly Detection
 Objective: Inspect DNS traffic flows to map query-response patterns and identify abnormal domain requests.
