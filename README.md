@@ -43,7 +43,7 @@ Welcome to my Wireshark hands-on lab repository! This project serves as a practi
 * **Objective:** Analyze an unencrypted HTTP session to trace user activity and reconstruct plain-text transmissions.
 * **Key Filters Used:** `http.request.method == "POST"`, `tcp.port == 80`
 * **Findings:** Successfully reconstructed the TCP stream to isolate a cleartext HTTP POST request, identifying submitted credentials and form parameters.
-* **🔗 [View Full Lab Documentation & Screenshots**](https://www.google.com/search?q=./PCAP-Labs/Lab-01-HTTP-Credential-Analysis/)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7cde2fa-fc21-43b1-ad86-72cce59d434a" />
 
 ---
 
