@@ -45,8 +45,7 @@ Findings: Successfully reconstructed the TCP stream to isolate a cleartext HTTP 
 
 🔗 View Full Lab Documentation & Screenshots
 
-![Wireshark Network Analysis](https://github.com/Shiva-cyber01/Wireshark-Network-Analysis/blob/main/Screenshot%202026-09-06%20102221.png?raw=true)
-
+![Wireshark Network Analysis](https://raw.githubusercontent.com/Shiva-cyber01/Demo_file/5ae0a862a791c5ebea9ca08bad8e6163d2b3b7bf/Screenshot%202026-09-06%20102221.png?token=B3WFHSEWBYOGRQRKL6I4ON3KTUZVK)
 # 🔹 Lab 02: DNS Query Inspection & Anomaly Detection
 Objective: Inspect DNS traffic flows to map query-response patterns and identify abnormal domain requests.
 
