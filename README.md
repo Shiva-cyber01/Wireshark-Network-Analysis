@@ -62,7 +62,9 @@ Welcome to my Wireshark hands-on lab repository! This project serves as a practi
 * **Objective:** Dissect a standard TCP 3-way handshake (`SYN` -> `SYN-ACK` -> `ACK`) and evaluate stream connection stability.
 * **Key Filters Used:** `tcp.flags.syn == 1`, `tcp.analysis.retransmission`
 * **Findings:** Evaluated connection setup times using RTT graphs and successfully pinpointed packet retransmissions causing transmission delays.
-* **🔗 [View Full Lab Documentation & Screenshots**](https://www.google.com/search?q=./PCAP-Labs/Lab-03-TCP-Handshake-Troubleshooting/)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/98ee154c-6a00-4f6f-b18e-1f4e4a785c70" />
+
 
 ---
 
