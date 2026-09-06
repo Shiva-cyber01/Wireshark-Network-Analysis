@@ -34,7 +34,7 @@ Welcome to my Wireshark hands-on lab repository! This project serves as a practi
 │       └── screenshots/
 └── README.md                       # Main Repository Overview
 
-# 🧪 Featured Lab Write-Ups
+#🧪 Featured Lab Write-Ups
 
 # 🔹 Lab 01: HTTP & Cleartext Credential Analysis
 Objective: Analyze an unencrypted HTTP session to trace user activity and reconstruct plain-text transmissions.
