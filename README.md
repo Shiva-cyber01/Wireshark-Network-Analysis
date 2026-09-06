@@ -1,5 +1,3 @@
-# Wireshark-Network-Analysis
-
 # 🦈 Wireshark Packet Analysis & Network Diagnostics Labs
 
 Welcome to my Wireshark hands-on lab repository! This project serves as a practical portfolio demonstrating my ability to analyze live network traffic, inspect protocol flows, troubleshoot network performance issues, and detect security anomalies at the packet level.
@@ -16,7 +14,7 @@ Welcome to my Wireshark hands-on lab repository! This project serves as a practi
 
 ---
 
- 📁 Repository Structure
+## 📁 Repository Structure
 
 ```text
 ├── PCAP-Labs/
@@ -34,38 +32,56 @@ Welcome to my Wireshark hands-on lab repository! This project serves as a practi
 │       └── screenshots/
 └── README.md                       # Main Repository Overview
 
-🧪 Featured Lab Write-Ups
+```
 
- 🔹 Lab 01: HTTP & Cleartext Credential Analysis
-Objective: Analyze an unencrypted HTTP session to trace user activity and reconstruct plain-text transmissions.
+---
 
-Key Filters Used: http.request.method == "POST", tcp.port == 80
+## 🧪 Featured Lab Write-Ups
 
-Findings: Successfully reconstructed the TCP stream to isolate a cleartext HTTP POST request, identifying submitted credentials and form parameters.
+### 🔹 Lab 01: HTTP & Cleartext Credential Analysis
 
-🔗 View Full Lab Documentation & Screenshots
+* **Objective:** Analyze an unencrypted HTTP session to trace user activity and reconstruct plain-text transmissions.
+* **Key Filters Used:** `http.request.method == "POST"`, `tcp.port == 80`
+* **Findings:** Successfully reconstructed the TCP stream to isolate a cleartext HTTP POST request, identifying submitted credentials and form parameters.
+* **🔗 [View Full Lab Documentation & Screenshots**](https://www.google.com/search?q=./PCAP-Labs/Lab-01-HTTP-Credential-Analysis/)
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d02ba30d-1f41-44a3-b12a-af575fa2dc58" />
+---
 
-# 🔹 Lab 02: DNS Query Inspection & Anomaly Detection
-Objective: Inspect DNS traffic flows to map query-response patterns and identify abnormal domain requests.
+### 🔹 Lab 02: DNS Query Inspection & Anomaly Detection
 
-Key Filters Used: dns.flags.response == 0, dns.qry.name
+* **Objective:** Inspect DNS traffic flows to map query-response patterns and identify abnormal domain requests.
+* **Key Filters Used:** `dns.flags.response == 0`, `dns.qry.name`
+* **Findings:** Identified standard recursive DNS resolution processes, mapped requested A/AAAA records, and highlighted high-frequency lookups indicative of network scanning.
+* **🔗 [View Full Lab Documentation & Screenshots**](https://www.google.com/search?q=./PCAP-Labs/Lab-02-DNS-Traffic-Inspection/)
 
-Findings: Identified standard recursive DNS resolution processes, mapped requested A/AAAA records, and highlighted high-frequency lookups indicative of network scanning.
+---
 
-🔗 View Full Lab Documentation & Screenshots
+### 🔹 Lab 03: TCP Handshake Analysis & Performance Diagnostics
 
-🔹 Lab 03: TCP Handshake Analysis & Performance Diagnostics
-Objective: Dissect a standard TCP 3-way handshake (SYN -> SYN-ACK -> ACK) and evaluate stream connection stability.
+* **Objective:** Dissect a standard TCP 3-way handshake (`SYN` -> `SYN-ACK` -> `ACK`) and evaluate stream connection stability.
+* **Key Filters Used:** `tcp.flags.syn == 1`, `tcp.analysis.retransmission`
+* **Findings:** Evaluated connection setup times using RTT graphs and successfully pinpointed packet retransmissions causing transmission delays.
+* **🔗 [View Full Lab Documentation & Screenshots**](https://www.google.com/search?q=./PCAP-Labs/Lab-03-TCP-Handshake-Troubleshooting/)
 
-Key Filters Used: tcp.flags.syn == 1, tcp.analysis.retransmission
+---
 
-Findings: Evaluated connection setup times using RTT graphs and successfully pinpointed packet retransmissions causing transmission delays.
+## 🌐 Sample PCAP Data Sources
 
-🔗 View Full Lab Documentation & Screenshots
+The `.pcap` sample files analyzed in this repository were gathered from open-source educational platforms and public diagnostic archives:
 
-🌐 Sample PCAP Data Sources
-The .pcap sample files analyzed in this repository were gathered from open-source educational platforms and public diagnostic archives:
+* [Wireshark Official Sample Captures](https://www.google.com/search?q=https://wiki.wireshark.org/SampleCaptures)
+* [Malware-Traffic-Analysis.net](https://www.google.com/search?q=https://www.malware-traffic-analysis.net/)
+* Custom lab environments (TryHackMe / Hack The Box)
 
-Wireshark Official Sample Captures
+---
+
+## 💼 Let's Connect!
+
+I am actively seeking opportunities in **Cybersecurity, SOC Analysis, and Network Security Engineering**.
+
+* **LinkedIn:** [linkedin.com/in/your-profile](https://www.google.com/search?q=https://www.linkedin.com/in/your-profile)
+* **Email:** `your.email@example.com`
+
+```
+
+```
