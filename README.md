@@ -68,6 +68,14 @@ Welcome to my Wireshark hands-on lab repository! This project serves as a practi
 
 ---
 
+### 🔹 Lab 04: Network Reconnaissance & Port Scan Detection
+* **Objective:** Analyze capture traffic to identify automated port scanning activity and malicious host discovery.
+* **Key Filters Used:** `tcp.flags.syn == 1 and tcp.flags.ack == 0`, `ip.src == [Target_IP]`
+* **Findings:** Identified a host executing a rapid TCP SYN scan across multiple destination ports within a short time window, mapping active services on the target subnet.
+* **🔗 [View Full Lab Documentation & Screenshots](./PCAP-Labs/Lab-04-Port-Scan-Detection/)**
+
+
+
 ## 🌐 Sample PCAP Data Sources
 
 The `.pcap` sample files analyzed in this repository were gathered from open-source educational platforms and public diagnostic archives:
@@ -85,5 +93,5 @@ I am actively seeking opportunities in **Cybersecurity, SOC Analysis, and  Junio
 * **Email:** [shivsagarverma1@gmail.com](mailto:shivsagarverma1@gmail.com)
 
 ```
-[linkedin.com/in/shivsagar1](https://www.google.com/search?q=https://www.linkedin.com/in/shivsagar1
+
 ```
