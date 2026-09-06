@@ -45,7 +45,7 @@ Findings: Successfully reconstructed the TCP stream to isolate a cleartext HTTP 
 
 🔗 View Full Lab Documentation & Screenshots
 
-![My Screenshot](https://github.com/Shiva-cyber01/Wireshark-Network-Analysis/blob/main/Screenshot%202026-09-06%20102221.png?raw=true)
+![ My Screenshot]_(https://github.com/Shiva-cyber01/Wireshark-Network-Analysis/blob/main/Screenshot%202026-09-06%20102221.png?raw=true)
 
 
 # 🔹 Lab 02: DNS Query Inspection & Anomaly Detection
