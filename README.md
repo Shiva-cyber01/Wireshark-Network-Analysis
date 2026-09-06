@@ -1,4 +1,5 @@
 # Wireshark-Network-Analysis
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/60bab8a2-0621-4870-80ca-62656bae4bd3" />
 
 # 🦈 Wireshark Packet Analysis & Network Diagnostics Labs
 
